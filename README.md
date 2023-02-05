@@ -1,2 +1,2 @@
 # My
-https://vertuhay12.github.io/My/
+new.html
